@@ -1,4 +1,8 @@
 first
 second
 third
-branch:first master
+<<<<<<< HEAD
+branch:first dev
+=======
+branch:first dev
+>>>>>>> dev
